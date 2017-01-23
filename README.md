@@ -14,3 +14,4 @@ To set up the application, run the following commands in the order listed:
 
 ###Database Schema
 ![database schema](https://cloud.githubusercontent.com/assets/12074778/20814767/466658fa-b7d8-11e6-8faf-800d8e4e4aca.png)
+
